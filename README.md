@@ -8,7 +8,7 @@ class BabakhaniNarek:
     def __init__(self):
         self.name = "Babakhani Narek"
         self.username = "StatusSSS"
-        self.location = "Russia, Saint-P"
+        self.location = "Russia, Saint-Petersburg"
         self.telegram = "@NarekPy"
 
         self.tech_stack = [
