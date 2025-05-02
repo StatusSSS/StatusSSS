@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Hi! It's StatusSSS</b>
+  <b>Hi! It's Narek</b>
 </h1>
 
 
