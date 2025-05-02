@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">
+  <b>Hi! It's StatusSSS</b>
+</h1>
 
-<!--
-**StatusSSS/StatusSSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```python
+class BabakhaniNarek:
+    def __init__(self):
+        self.name = "Babakhani Narek"
+        self.username = "StatusSSS"
+        self.location = "Russia, Saint-P"
+        self.telegram = "@NarekPy"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        self.tech_stack = [
+            "Python",
+            "FastAPI",
+            "Django",
+            "Django Rest Framework",
+            "PostgreSQL",
+            "MySQL",
+            "SQLAlchemy",
+            "MongoDB",
+            "Redis",
+            "Celery",
+            "RabbitMQ",
+            "Docker",
+            "Prometheus",
+            "Grafana",
+            "Pytest",
+            "python-telegram-bot"
+        ]
+    
+    def __str__(self):
+        return self.name
+
+if __name__ == '__main__':
+    me = BabakhaniNarek()
+```
